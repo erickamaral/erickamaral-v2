@@ -1,6 +1,6 @@
 'use client';
 
-import { Background } from '@/components';
+import { Background, InDev } from '@/components';
 import { AboutSection, ExperiencesSection, FooterSection, HeaderSection, IntroSection, NetworksSection, ProjectsSection } from '@/ui';
 
 export default function Home() {
@@ -14,6 +14,7 @@ export default function Home() {
       <NetworksSection />
       <FooterSection />
       <Background />
+      <InDev />
     </main>
   )
 }

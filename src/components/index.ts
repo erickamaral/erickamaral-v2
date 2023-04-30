@@ -7,6 +7,7 @@ export * from './Chevron';
 export * from './ChevronButton';
 export * from './Container';
 export * from './DescriptionList';
+export * from './InDev';
 export * from './Logo';
 export * from './Tabs';
 export * from './Title';
